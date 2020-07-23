@@ -6,7 +6,7 @@ import datetime
 
 st.title("Flight fare")
 
-pickle_in = open("flight.pkl","rb")
+pickle_in = open("flightact.pkl","rb")
 model=pickle.load(pickle_in)
 
 def prediction():
