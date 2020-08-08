@@ -1,5 +1,5 @@
 # *Flight Fare*
-> App that predicts the nature of the tweets and label them as "Positive" or "Negative"
+> App that predicts the flight price for a given destination
 
 ## Table of contents
 * [General info](#general-info)
@@ -12,18 +12,17 @@
 * [Contact](#contact)
 
 ## General info
-This app determines if a Tweet/sentence is positive or negative/hate speech. Though any general sentence can be used,the title is named "Twitter Sentiment" as the model is 
-trained on the tweets from twitter. Hence,the sentiment could be a little biased on how it is perceived on twitter platform.
+This app predicts the price for a one-way flight given the factors like Airways, Source, Destination and so on. The price , Airways and the regions are limited to the information present in the dataset . Some final features are dropped at the end to make the app mimic real-file examples.
 
 ## Model Lifecycle
 The Standard datascience lifecycle was followed for building this model.
-1. **Business understanding**- The objective is to determine if a tweet is positive or negative
-2. **Data collection**- Dataset acquired from [Kaggle](https://www.kaggle.com/kazanova/sentiment140),the original dataset of 1.6 million tweets were reduced to a random sample of 62000 tweets due to computing limitations
-3. **Data preprocessing/Preparation**- Several steps were performed to clean the data like removing dublicates, punctuations,stop words etc
-4. **EDA**- Used plots like Word cloud to understand more about the data
-5. **Modelling**- Used Naive bayes model with Hyperparameter tuning and roc-auc as the metric
-6. **Evaluation**- Used AUC plot and AUC score of test and train data to determine the effectiveness of the model.This was double checked by a confusion matrix
-7. **Deployment**- Model was deployed using Streamlit and on AWS server --Click [HERE](http://18.191.219.195:8501) for the demo
+1. **Business understanding**- The objective is to predict the flight fare for a one-way journey
+2. **Data collection**- Dataset acquired from [Kaggle](https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh/)
+3. **Data preprocessing/Preparation**- Several steps were performed to clean the data like removing dublicates,checking for outliers etc.
+4. **EDA**- Used plots like Box plot , Violin plot to get more insight on the data
+5. **Modelling**- Used Multiple models: KNN ,Randomforest,Gradient Boosted Decision Tree and selected the best performer for deployment 
+6. **Evaluation**- Used Mean absolute error and Root mean squared error to determine the effectiveness of the model 
+7. **Deployment**- Model was deployed using Streamlit and on Heroku server --Click [HERE](https://flightfare1.herokuapp.com/) for the demo
 
 ## Screenshots of app
 #### 1.
