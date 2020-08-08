@@ -1,5 +1,5 @@
 # *Flight Fare*
-> App that predicts the flight price for a given destination
+> App that predicts the flight price for a given airline 
 
 ## Table of contents
 * [General info](#general-info)
