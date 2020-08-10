@@ -12,7 +12,7 @@
 * [Contact](#contact)
 
 ## General info
-This app predicts the price for a one-way flight given the factors like Airways, Source, Destination and so on. The price , Airways and the regions are limited to the information present in the dataset . Some final features are dropped at the end to make the app mimic real-file examples.
+This app predicts the price for a one-way flight given the factors like Airways, Source, Destination and so on. The price , Airways and the regions are limited to the information present in the dataset . Some features are dropped to make the app mimic real-file examples.
 
 ## Model Lifecycle
 The Standard datascience lifecycle was followed for building this model.
