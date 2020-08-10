@@ -29,19 +29,18 @@ The Standard datascience lifecycle was followed for building this model.
 <img src="https://github.com/JS-Jayasimha-Reddy/Flight_fare/blob/master/Images/app.PNG">
 </kbd>
 
-
-
 ## Code sample
-
-<img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/note3.PNG" >
+<kbd>
+<img src="https://github.com/JS-Jayasimha-Reddy/Flight_fare/blob/master/Images/note.PNG" >
+</kbd>
 
 
 ## Technologies Used
 
 <p float="left">
-  <img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/anaconda.jpg" width="200" height='150' />
+  <img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/anaconda.jpg" width="200" height='100' />
   <img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/python.png" width="100" height="100" /> 
-  <img src="https://github.com/JS-Jayasimha-Reddy/Flight_fare/blob/master/Images/heroku.png" width="150" /> 
+  <img src="https://github.com/JS-Jayasimha-Reddy/Flight_fare/blob/master/Images/heroku.png" width="150" height="100" /> 
   <img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/sklearn.jpg" width="150" /> 
   <img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/streamlit.png" width="150" /> 
 </p>
