@@ -50,7 +50,7 @@ The Standard datascience lifecycle was followed for building this model.
 - Clone the repository 
 - All of the code is written on [Jupyter notebook](https://www.anaconda.com/products/individual) 
 - Run the requirements.txt file on the command propmt using **pip install -r requirements.txt** to install the necessary libraries
-- The model can be deployed on an AWS server using EC2 instance 
+- The model can be deployed on Heroku server  
 
 ## Future Scope
 - Further changes are planned to improve performance and accuracy by using Deep Learning techniques 
