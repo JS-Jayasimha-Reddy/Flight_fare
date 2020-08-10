@@ -65,4 +65,4 @@ Sources include :
 - [Medium](https://medium.com/)
 
 ## Contact
-- If there any difficulties in running the code or suggestions on imporvements , please email me at : jayasimhaarya@gmail.com
+- If there are any difficulties in running the code or suggestions on imporvements , please email me at : jayasimhaarya@gmail.com
