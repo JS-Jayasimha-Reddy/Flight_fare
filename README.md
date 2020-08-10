@@ -25,11 +25,10 @@ The Standard datascience lifecycle was followed for building this model.
 7. **Deployment**- Model was deployed using Streamlit and on Heroku server --Click [HERE](https://flightfare1.herokuapp.com/) for the demo
 
 ## Screenshots of app
-#### 1.
-<img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/tweet2.PNG">
+<kbd>
+<img src="https://github.com/JS-Jayasimha-Reddy/Flight_fare/blob/master/Images/app.PNG">
+</kbd>
 
-#### 2.
-<img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/tweet1.PNG">
 
 
 ## Code sample
@@ -42,7 +41,7 @@ The Standard datascience lifecycle was followed for building this model.
 <p float="left">
   <img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/anaconda.jpg" width="200" height='150' />
   <img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/python.png" width="100" height="100" /> 
-  <img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/aws.png" width="150" /> 
+  <img src="https://github.com/JS-Jayasimha-Reddy/Flight_fare/blob/master/Images/heroku.png" width="150" /> 
   <img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/sklearn.jpg" width="150" /> 
   <img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/streamlit.png" width="150" /> 
 </p>
