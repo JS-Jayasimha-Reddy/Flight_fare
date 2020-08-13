@@ -30,6 +30,9 @@ The Standard datascience lifecycle was followed for building this model.
 </kbd>
 
 ## Code sample
+
+[Click here to view to notebook](https://github.com/JS-Jayasimha-Reddy/Flight_fare/blob/master/flight_fare.ipynb)
+
 <kbd>
 <img src="https://github.com/JS-Jayasimha-Reddy/Flight_fare/blob/master/Images/note.PNG" >
 </kbd>
